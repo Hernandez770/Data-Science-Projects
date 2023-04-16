@@ -11,7 +11,6 @@ In this, the most important macroeconomic indicators are analysed:
 - Labour Market
 
 Here are some examples of graphs extracted from the project:
-Proyecto EDA/graphs/Debt GDP EU biggest economies.png
 
 <img src="Proyecto EDA/graphs/Debt GDP EU biggest economies.png" width="1000">
 
