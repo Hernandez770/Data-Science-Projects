@@ -1,6 +1,13 @@
 # Data-Science-Projects
 Repository where I save the projects I'm currently working on and those finished.
 
+## PROJECT MACHINE LEARNING
+
+Project where I do a predictive analysis using machine learning, more concretely using a Random Forest model for predicting the life expectancy in a country just by using three variables: GDP, population and extension of the country.
+
+
+
+
 ## PROJECT EDA
 
 Project where I do a **descriptive and comparative analysis** about the current financial situation of the Spanish Government, especially focussed on accumulated debt. 
